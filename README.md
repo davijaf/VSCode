@@ -52,8 +52,8 @@ No filtro há opção de pesquisar por categoria
 
 ## Terminal e GIT
 
-Terminal do OS dentro do VSCode
-Console de Depuração
-DEBUG
-Saída
-Terminal
+* Terminal do OS dentro do VSCode
+* Console de Depuração
+* DEBUG
+* Saída
+* Terminal
