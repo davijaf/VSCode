@@ -47,8 +47,9 @@ Ex.: HTML:5
 
 ## Extensões e Temas
 
-Pesquisar extensões para facilitar a edição e personalizar sua experiência com o VSCode
-No filtro há opção de pesquisar por categoria
+* Pesquisar extensões para facilitar a edição e personalizar sua experiência com o VSCode
+
+* No filtro há opção de pesquisar por categoria
 
 ## Terminal e GIT
 
